@@ -1,7 +1,8 @@
 # ActiveMQ Knowledge
 ## Queue
 ## Topic
-
+## Producer features
+## Consumer features
 <details>
 <summary>Durable subscribers</summary>
 </details>
