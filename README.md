@@ -1,1 +1,1 @@
-# activemq-knowledge
+# ActiveMQ Knowledge
