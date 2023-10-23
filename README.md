@@ -1,4 +1,12 @@
 # ActiveMQ Knowledge
 ## Queue
 ## Topic
+
+<details>
+<summary>Durable subscribers</summary>
+</details>
+<details>
+<summary>Virtual Topic</summary>
+</details>
+
 ## Spring Integration with Active MQ
