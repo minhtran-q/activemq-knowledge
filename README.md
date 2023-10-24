@@ -14,4 +14,19 @@
 
 <details>
 <summary>Setup</summary>
+<br/>
+  Add dependencies:
+  
+  ```
+  <dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-jms</artifactId>
+  </dependency>
+
+  <dependency>
+    <groupId>org.apache.activemq</groupId>
+    <artifactId>activemq-all</artifactId>
+  </dependency>
+   ``` 
+  
 </details>
