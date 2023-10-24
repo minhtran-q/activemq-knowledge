@@ -11,3 +11,7 @@
 </details>
 
 ## Spring Integration with Active MQ
+
+<details>
+<summary>Setup</summary>
+</details>
