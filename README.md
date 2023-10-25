@@ -29,10 +29,12 @@
   </dependency>
    ``` 
 
-  ```
+To configure a integration between Active MQ and Spring Integration, you need to define beans as follows: 
++ **@EnableJms** :
++ **ActiveMQConnectionFactory** :
++ **JmsTemplate** :
++ **DefaultJmsListenerContainerFactory** :
 
-  
 
-  ```
   
 </details>
