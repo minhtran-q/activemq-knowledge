@@ -30,11 +30,9 @@
    ``` 
 
 To configure a integration between Active MQ and Spring Integration, you need to define beans as follows: 
-+ **@EnableJms** :
++ **@EnableJms** : Enable JMS auto-configuration in Spring.
 + **ActiveMQConnectionFactory** :
 + **JmsTemplate** :
 + **DefaultJmsListenerContainerFactory** :
 
-
-  
 </details>
