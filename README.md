@@ -13,7 +13,7 @@
 ## Spring Integration with Active MQ
 
 <details>
-<summary>Setup</summary>
+<summary>Setup example</summary>
 <br/>
   Add dependencies:
   
